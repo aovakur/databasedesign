@@ -19,4 +19,4 @@
 
 Схема информационного Хранилища в виде ER – диаграммы
 
-![screenshot of sample](https://github.com/aovakur/databasedesign/picture.png)
+![Схема информационного Хранилища в виде ER – диаграммы](https://github.com/aovakur/databasedesign/blob/master/picture.PNG?raw=true)
